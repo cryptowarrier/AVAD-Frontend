@@ -1,0 +1,5 @@
+export const address = {
+  drip: "0x2171C595A438dB017d1B749Af62Bff43bB69fA0B",
+  vault: "0x4ccc6607e155aDE4b6126964241B2E4F0EdA2991",
+  faucet: "0x01f6Ee0B7CDC60A3FD22cA136daCf29382843baE"
+}
